@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(225, 255, 200);
+}
+#Op {
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 20px;
+    padding: 10px;
+    border-color: rgb(88, 158, 135);
+    background-color:rgb(88, 158, 135);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(10, 69, 7);
+}
+#About {
+    border-style: double;
+    border-width: 2px;
+    border-color: darkgreen;
+    border-radius: 10px;
+    background-color: darkgreen;
+    color:rgb(175, 245, 175);
+    padding: 10px;
+}
+#Motorcycles{
+    border-style:inset;
+    border-width: 2px;
+    border-color: rgb(7, 36, 7);
+    border-radius: 5px;
+    background-color: rgb(37, 56, 49);
+    padding: 30px;
+    color: rgb(155, 247, 155);
+}

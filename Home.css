@@ -1,0 +1,36 @@
+body{
+
+    border-width:3px;
+    border-radius: 10px;
+    border-color:#1e91d8;
+    background-color:aliceblue;
+    padding: 10px;
+}
+
+#Op{
+    border-style:outset;
+    border-width:5px;
+    border-color:rgb(27, 79, 81);
+    background-color: rgb(90, 135, 146);
+    padding: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large ;
+    color:rgb(226, 236, 240)
+    
+}
+#Info{ 
+    border-style: solid ;
+    border-width: 2px ;
+    border-radius: 20px;
+    background-color: #1e91d8;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+#In{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-color:rgb(142, 160, 234);
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
